@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1513349541 source:/home/neda/Desktop/evenpath/main.c
+	<stdio.h>
+	<stdlib.h>
+
